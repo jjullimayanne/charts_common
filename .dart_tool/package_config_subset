@@ -83,9 +83,9 @@ http_parser
 file:///Users/96084/.pub-cache/hosted/pub.dev/http_parser-4.0.2/
 file:///Users/96084/.pub-cache/hosted/pub.dev/http_parser-4.0.2/lib/
 intl
-3.0
-file:///Users/96084/.pub-cache/hosted/pub.dev/intl-0.19.0/
-file:///Users/96084/.pub-cache/hosted/pub.dev/intl-0.19.0/lib/
+2.12
+file:///Users/96084/.pub-cache/hosted/pub.dev/intl-0.18.1/
+file:///Users/96084/.pub-cache/hosted/pub.dev/intl-0.18.1/lib/
 io
 2.12
 file:///Users/96084/.pub-cache/hosted/pub.dev/io-1.0.4/
